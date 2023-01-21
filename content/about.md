@@ -2,6 +2,7 @@
 title: "About"
 date: 2023-01-21T16:37:31Z
 draft: false
+showTaxonomies: false
 ---
 
 # Why does this exist?
