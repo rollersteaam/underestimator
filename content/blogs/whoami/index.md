@@ -6,7 +6,7 @@ docs: ["jordan-peters-aka-rollersteaam"]
 ---
 
 ```md
-#/docs/jordan-peters-aka-rollersteaam
+# /docs/jordan-peters-aka-rollersteaam
 + I'm a 22 year old software engineer who works for [Realwear Inc.](https://www.realwear.com/) as an Android Engineer<sub>[[1]](/blogs/whoami/)</sub>, and I'm fanatically passionate about technology, software, creativity, UI/UX, design, productivity and psychology.
 + 
 + Previously Senior Unity Developer at SimplyVideo and Senior Full Stack Developer at Hatless Studios (student-led software contractor). As a result, I have very extensive experience with frontend, backend, game, and XR app development, and good experience with Android development<sub>[[1]](/blogs/whoami/)</sub>. Previous failures at launching a music recommendation startup at 18 years old have been demotivational, but my efforts were what caused me to be headhunted for Hatless. 2023 marks the beginning of a new chapter, as university has been completed, my time and energy are unshackled<sub>[[1]](/blogs/whoami/)</sub>.
