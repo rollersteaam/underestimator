@@ -29,3 +29,7 @@ I also combined git into this. Each blog will show the 'diff' that it made to a 
 # ...And who are you?
 
 I'd like to think I'm a story still being written. [Check out my doc](/docs/jordan-peters-aka-rollersteaam) to find out who 'I' currently am.
+
+# How did you build this?
+
+I used [Hugo](https://gohugo.io/) with the help of the brilliant [Blowfish](https://blowfish.page/) theme. Here's the [source code of this website](https://github.com/rollersteaam/underestimator). Feel free to launch your own. I have the skills to create something like this, but there are more important things to build from the ground up. This is beautiful, but it isn't one of them.
