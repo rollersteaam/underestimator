@@ -6,7 +6,7 @@ weight = 1
 rtl = false
 
 title = "Underestimator"
-# logo = "img/logo.png"
+logo = "Phase3Favicon.png"
 description = "Lively and concise writings about people and software. A blog and portfolio, rolled into a docs."
 # copyright = "Copy, _right?_ :thinking_face:"
 
