@@ -19,9 +19,9 @@ I came up with an idea.
 
 Scientific papers are beautiful, but incredibly daunting to the layman. There is likely some academic snobbery and classism to explain that. But this beauty lies in its structure - they are actually designed for very concise reportings of progress, which is the exact opposite of your initial impression to them.
 
-They're a weird mixture of docs and blogs. [Docs,](/docs/) the life blood of software, are a quick reference to learn a concept validated prior by engineers and their many works before it, where as a result you can immediately apply it. [Blogs](/blogs/) are the recorded paths, golden and muddy, to act as warning signs for other adventurers, and signs of hope.
+They're a weird mixture of docs and blogs. [Docs,](../docs/) the life blood of software, are a quick reference to learn a concept validated prior by engineers and their many works before it, where as a result you can immediately apply it. [Blogs](../blogs/) are the recorded paths, golden and muddy, to act as warning signs for other adventurers, and signs of hope.
 
-Blogs *inform* the docs. This website is designed around combining them both to lace the loose strands of knowledge together completely: a [doc](/docs/) concisely explains the concept as objective as it can be explained. [Blogs](/blogs/) are every step to achieving that understanding. You will see references to blogs (hopefully) after most sentences in a doc, to explain how I've reached such a conclusion.
+Blogs *inform* the docs. This website is designed around combining them both to lace the loose strands of knowledge together completely: a [doc](../docs/) concisely explains the concept as objective as it can be explained. [Blogs](../blogs/) are every step to achieving that understanding. You will see references to blogs (hopefully) after most sentences in a doc, to explain how I've reached such a conclusion.
 
 The result? I can construct a handbook of easily communicable skills that you can pick up. And you can also create jumps in your own understanding, likely above mine, by diving deeper into my blogs and reasoning, and interpreting things for yourself.
 
@@ -29,7 +29,7 @@ I also combined git into this. Each blog will show the 'diff' that it made to a 
 
 # ...And who are you?
 
-I'd like to think I'm a story still being written. [Check out my doc](/docs/jordan-peters-aka-rollersteaam) to find out who 'I' currently am.
+I'd like to think I'm a story still being written. [Check out my doc](../docs/jordan-peters-aka-rollersteaam) to find out who 'I' currently am.
 
 # How did you build this?
 
