@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rollersteaam.github.io/sitemap.xml
