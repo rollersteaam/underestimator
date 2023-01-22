@@ -1,7 +1,6 @@
 ---
 title: "whoami"
 date: 2023-01-21T16:40:33Z
-draft: false
 docs: ["jordan-peters-aka-rollersteaam"]
 ---
 

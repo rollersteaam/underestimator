@@ -1,7 +1,6 @@
 ---
 title: "Why Can't I Do Something? Why Can’t I Overcome Fear & Anxiety? – Gaining Success & Control"
 date: 2023-01-21T22:45:01Z
-draft: false
 docs: ["productivity", "mental-health", "creativity"]
 ---
 

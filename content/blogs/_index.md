@@ -1,7 +1,6 @@
 ---
 title: "Blogs"
 date: 2023-01-21T18:00:39Z
-draft: false
 ---
 
 Blogs are what you expect; they're writings and thoughts about a topic.

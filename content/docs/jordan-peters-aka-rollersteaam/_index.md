@@ -1,7 +1,6 @@
 ---
 title: "Jordan Peters a.k.a. Rollersteaam"
 date: 2023-01-21T18:41:12Z
-draft: true
 ---
 
 I'm a 22 year old software engineer who works for [Realwear Inc.](https://www.realwear.com/) as an Android Engineer<sub>[[1]](/blogs/whoami/)</sub>, and I'm fanatically passionate about technology, software, creativity, UI/UX, design, productivity and psychology.

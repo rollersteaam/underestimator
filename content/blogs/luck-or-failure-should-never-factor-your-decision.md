@@ -1,7 +1,6 @@
 ---
 title: "Bad Luck or Risk of Failure Should Never Stop You"
 date: 2023-01-21T17:13:16Z
-draft: false
 docs: ["luck"]
 ---
 
