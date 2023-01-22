@@ -67,7 +67,7 @@ defaultBackgroundImage = "defaultbg.jpg" # used as default for background images
   showTableOfContents = true
   showTaxonomies = true 
   showAuthorsBadges = false 
-  showWordCount = true
+  showWordCount = false
   showSummary = true
   sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email"]
 
