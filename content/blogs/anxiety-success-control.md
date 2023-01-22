@@ -8,7 +8,7 @@ docs: ["productivity", "mental-health", "creativity"]
 
 ### Setting the scene
 
-I was watching a video by Vaush (https://www.youtube.com/watch?v=804TeDKJ_dA) about how when people approach 30, or 18, or 21, or whatever, they panic like hell and believe their life is over. He explains how this is bullshit, basically. Of course, I agree.
+I was watching a [video by Vaush](https://www.youtube.com/watch?v=804TeDKJ_dA) about how when people approach 30, or 18, or 21, or whatever, they panic like hell and believe their life is over. He explains how this is bullshit, basically. Of course, I agree.
 
 The comments in particular are really insightful though. Mountains of people, both in the live chat in the video itself, and in the YouTube comments, seem to contend with the idea of 'social anxiety'. The fact he even has to state "You have the power to create fun times, you're just not doing it" is weird in of itself. If we had the power, why are we so reserved at using it? What is stopping us? I ask this as a devil's advocate, because I have suffered from social anxiety previously.
 
